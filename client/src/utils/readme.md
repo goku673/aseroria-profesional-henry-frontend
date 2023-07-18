@@ -1,0 +1,1 @@
+aca ponemos funcionalidades que no sean especificos de un componente en particular.
